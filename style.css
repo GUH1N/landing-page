@@ -1,0 +1,26 @@
+body
+{
+    margin: 0;
+}
+
+.navbar bg-body-tertiary
+{
+    padding: 0px;
+}
+
+.container-fluid
+{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    font-size: 20px;
+}
+
+.carousel-inner
+{
+    height: 700px;
+}
+
+p{
+    z-index: -1;
+}
